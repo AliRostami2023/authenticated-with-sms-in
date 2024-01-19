@@ -16,5 +16,4 @@ def send_otp_code(phone_number, code):
     except HTTPException as e: 
         print(e)
 
-# 545034334477372B394336692F714C7156506F3447746D727546552B55635271637252737867314B7632673D
 
